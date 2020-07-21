@@ -1,0 +1,45 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+.carousel-inner {
+  height: 500px;
+  background-color: #000;
+  margin-bottom: 60px;
+
+}
+.carousel-inner .item {
+  height: 500px;
+  background-color: #000;
+}
+.carousel-inner img {
+  width: 100%;
+}
+.carousel-caption p{
+  margin-bottom: 20px;
+  font-size: 20px;
+  line-height: 1.8;
+}
+#summary-container .col-md-4{
+  text-align: center;
+}
+.desc {
+  line-height: 1.8;
+  height: 50px;
+}
+.divider {
+  margin: 40px 0;
+}
+.feature {
+  padding: 30px 0;
+}
+.feature-heading {
+  font-size: 50px;
+  color: #2a6496;
+  margin-top: 120px;
+}
+.feature-heading .text-muted {
+  font-size: 28px;
+  color: #999;
+}
